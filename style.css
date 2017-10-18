@@ -1,0 +1,221 @@
+@font-face {
+	font-family: 'RobotoCondensed-Regular';
+	src: url('fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf');
+	src: url('fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf') format('ttf'),
+	     url('fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf') format('truetype');
+
+}   
+body {
+	background-image: url(background2.jpg);
+	background-repeat: no-repeat;
+	background-size: 2000px;
+	padding: 20px;
+	background-position: center;
+	position: relative;
+	margin: auto;
+}
+#margin0{
+	background-image: url(background2.jpg);
+	background-repeat: no-repeat;
+	background-size: 5000px;
+	height: 40px;
+	border-radius: 20px;
+	align-items: center;
+	position: relative;
+	top: 0;
+	left: 0;
+	margin : auto;
+	opacity: 0.7;
+}
+
+#margin1 {
+	background-image: url(background2.jpg);
+	height: 40px;
+	position: relative;
+	top: 10px;
+}
+  
+h1 {
+	font-family: 'RobotoCondensed-Regular';
+	font-size: 30px;
+	color :white;
+	padding:10px;
+	position: relative;
+	top:-8px;
+	left:20px;
+}
+
+ul {
+	position: relative;
+	text-align: right;
+	display: inline;
+    
+}
+
+li {
+	position:relative;
+	display:inline;
+	float:right;
+	padding:20px;
+	width: 80px;
+}
+li a {
+	text-decoration: none;
+	font-family: 'RobotoCondensed-Regular';
+	position: relative;
+	top : -85px;
+	color: white;
+	right :30px;
+}
+li a:hover{
+	color:brown;
+
+}
+#gambar {
+	width: 500px;
+	margin:0 auto;
+	align-items: center;
+	position: relative;
+	top: 20px;
+
+}
+p {
+	font-family: 'RobotoCondensed-Regular';
+	color :white;
+	position: relative;
+	top: -120px;
+}
+h2 {
+	font-family: 'RobotoCondensed-Regular';
+	text-decoration: bold;
+	color :white;
+	position: relative;
+	padding: 240px 70px 0px 70px;
+	font-size: 50px;	
+}
+h3 {
+	color:white;
+	position: relative;
+	top:-90px;
+	font-size: 50px;
+}
+#margin2 {
+	clear :both;
+	position: relative;
+	top :-200px;
+}
+#learn {
+	text-decoration:none;
+	font-family: 'RobotoCondensed-Regular';
+	color: white;
+	position: relative;
+	top:5px;
+}
+#more {
+	background-image: url(background2.jpg);
+	position: relative;
+ 	top: -100px;
+	width: 180px;
+	height: 30px;
+	opacity: 0.5;
+	border-radius: 10px;
+}
+#footer {
+	background-image: url(background2.jpg);
+	background-repeat: no-repeat;
+	background-size: 5000px;
+	height: 70px;
+	border-radius: 20px;
+	opacity: 0.7;
+	margin:0 auto;
+
+}
+h4 {
+ 	font-family: 'RobotoCondensed-Regular';
+ 	color: white;
+	position: relative;
+	top: 8px;
+}
+
+#download {
+	text-decoration:none;
+	font-family: 'RobotoCondensed-Regular';
+	position: relative;
+	top : 5px;
+	color: white;
+}
+#download2 {
+	background-image: url(background2.jpg);
+	position: relative;
+	width: 180px;
+	height: 30px;
+	opacity: 0.5;
+	border-radius: 10px;
+	top:-20px;
+	border-radius: 20px;
+}
+/*ini home*/
+
+
+
+
+
+
+
+#tableprofil{
+	position: relative;
+	font-family: 'RobotoCondensed-Regular';
+	font-size: 22px;
+	top: -70px;
+	color: white;
+	width: 500px;
+	left: 100px;
+	
+}
+/*profil*/
+
+
+
+
+
+
+
+
+#tablealbum{
+	position: relative;
+	font-family: 'RobotoCondensed-Regular';
+	top: -90px;
+	color: white;
+	width: 700px;
+}
+	
+
+
+
+
+
+
+
+
+/*form*/
+#form {
+	font-family: 'RobotoCondensed-Regular';
+	color :white;
+	position: relative;
+	top: -80px;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+/*learn more*/
+#tulisan {
+	top:250px;
+	font-family: 'RobotoCondensed-Regular';
+	font-size: 18px;
+}
